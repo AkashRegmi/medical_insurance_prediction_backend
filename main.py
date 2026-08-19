@@ -10,7 +10,6 @@ app.add_middleware(
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "https://medical-insurance-prediction-frontend.onrender.com",
-       " https://medical-insurance-prediction-frontend.onrender.com/"
     ],
     allow_credentials=True,
     allow_methods=["*"],
